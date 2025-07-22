@@ -19,13 +19,15 @@
 [⬇️ Click here to download APK](https://github.com/Bhuvan-Arora-1313/BITS-Connect-App/raw/main/release-apk/BITSConnect-v1.0.apk)
 
 ## Screenshots
-![Landing Page](screenshots/landing.jpeg)
-![My Groups](screenshots/mygrps.jpeg)
-![Create Group](screenshots/creategrp.jpeg)
-![All Groups Section](screenshots/allgrps.jpeg)
-![Events Section](screenshots/event.jpeg)
-![Jr. Sr. Interaction Section](screenshots/jrsr.jpeg)
-![Profile Page](screenshots/profile.jpeg)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/landing.jpeg" width="150"/>
+  <img src="screenshots/mygrps.jpeg" width="150"/>
+  <img src="screenshots/creategrp.jpeg" width="150"/>
+  <img src="screenshots/allgrps.jpeg" width="150"/>
+  <img src="screenshots/event.jpeg" width="150"/>
+  <img src="screenshots/jrsr.jpeg" width="150"/>
+  <img src="screenshots/profile.jpeg" width="150"/>
+</div>
 ## 📱 How to Use
 
 ### 🔧 Setup (for Developers)
