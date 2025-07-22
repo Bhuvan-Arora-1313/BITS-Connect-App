@@ -16,7 +16,10 @@
 
 ## 📱 Download BITS Connect App
 
-[⬇️ Click here to download APK](https://github.com/Bhuvan-Arora-1313/BITS-Connect-App/raw/main/release-apk/BITSConnect-v1.0.apk)
+[⬇️ Click here to download APK](https://github.com/Bhuvan-Arora-1313/BITS-Connect-App/raw/main/release-apk/BITSConnect-v1.1.apk)
+
+- 👥 **BITS-only Access**: Restricted to BITS Pilani students via domain-based Google sign-in.  
+  👉 Only emails ending with **@pilani.bits-pilani.ac.in** are allowed to log in.
 
 ## Screenshots
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
