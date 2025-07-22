@@ -81,7 +81,7 @@ class LoginScreen extends StatelessWidget {
                       ),
                       onPressed: () async {
                         print("🔵 Login button pressed");
-                        final user = await auth.signInWithGoogle();
+                        final user = await auth.signInWithGoogle(context);
                         if (user != null) {
                           print("🟢 Login successful: ${user.email}");
                           Navigator.pushReplacement(
