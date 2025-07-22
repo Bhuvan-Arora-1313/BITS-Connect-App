@@ -27,6 +27,7 @@
   <img src="screenshots/event.jpeg" width="150"/>
   <img src="screenshots/jrsr.jpeg" width="150"/>
   <img src="screenshots/profile.jpeg" width="150"/>
+  <img src="screenshots/about.jpeg" width="150"/>
 </div>
 ## 📱 How to Use
 
