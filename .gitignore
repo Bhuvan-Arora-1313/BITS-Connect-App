@@ -1,0 +1,40 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android build artifacts and secret keys
+android/app/release-key.jks
+**/release-key.jks
+**/key.properties
+**/*.jks
+**/*.keystore
+
+# Firebase (you are keeping google-services.json)
+# DO NOT include this if you want to keep google-services.json public:
+# google-services.json
+
+# iOS/macOS build outputs (if present)
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+macos/Pods/
+macos/.symlinks/
+macos/build/
+
+# IDE/Editor junk
+.idea/
+.vscode/
+*.iml
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Obfuscation
+*.map.json
+*.symbols

@@ -1,0 +1,608 @@
+{
+  "courses": [
+    {
+      "course_no": "BITS F214",
+      "course_title": "Science, Technology and Modernity"
+    },
+    {
+      "course_no": "BITS F226",
+      "course_title": "Soft Skills for Professionals"
+    },
+    {
+      "course_no": "BITS F385",
+      "course_title": "Introduction to Gender Studies"
+    },
+    {
+      "course_no": "BITS F399",
+      "course_title": "Humanistic Theories of Science and Technology"
+    },
+    {
+      "course_no": "GS F211",
+      "course_title": "Modern Political Concepts"
+    },
+    {
+      "course_no": "GS F212",
+      "course_title": "Environment, Development & Climate Change"
+    },
+    {
+      "course_no": "GS F221",
+      "course_title": "Business Communication"
+    },
+    {
+      "course_no": "GS F223",
+      "course_title": "Introduction to Mass Communication"
+    },
+    {
+      "course_no": "GS F224",
+      "course_title": "Print and Audio-Visual Advertisement"
+    },
+    {
+      "course_no": "GS F231",
+      "course_title": "Dynamics of Social Change"
+    },
+    {
+      "course_no": "GS F232",
+      "course_title": "Introductory Psychology"
+    },
+    {
+      "course_no": "GS F233",
+      "course_title": "Public Policy"
+    },
+    {
+      "course_no": "GS F234",
+      "course_title": "Development Economics"
+    },
+    {
+      "course_no": "GS F241",
+      "course_title": "Creative Writing"
+    },
+    {
+      "course_no": "GS F242",
+      "course_title": "Cultural Studies"
+    },
+    {
+      "course_no": "GS F243",
+      "course_title": "Current Affairs"
+    },
+    {
+      "course_no": "GS F244",
+      "course_title": "Reporting and Writing for Media"
+    },
+    {
+      "course_no": "GS F245",
+      "course_title": "Effective Public Speaking"
+    },
+    {
+      "course_no": "GS F311",
+      "course_title": "Introduction to Conflict Management"
+    },
+    {
+      "course_no": "GS F312",
+      "course_title": "Applied Philosophy"
+    },
+    {
+      "course_no": "GS F313",
+      "course_title": "Marxian Thoughts"
+    },
+    {
+      "course_no": "GS F321",
+      "course_title": "Mass Media Content and Design"
+    },
+    {
+      "course_no": "GS F322",
+      "course_title": "Critical Analysis of Literature and Cinema"
+    },
+    {
+      "course_no": "GS F325",
+      "course_title": "Journalism"
+    },
+    {
+      "course_no": "GS F326",
+      "course_title": "Creative Thinking"
+    },
+    {
+      "course_no": "GS F327",
+      "course_title": "Selected Reading"
+    },
+    {
+      "course_no": "GS F331",
+      "course_title": "Techniques in Social Research"
+    },
+    {
+      "course_no": "GS F332",
+      "course_title": "Contemporary India"
+    },
+    {
+      "course_no": "GS F333",
+      "course_title": "Public Administration"
+    },
+    {
+      "course_no": "GS F343",
+      "course_title": "Short Film and Video Production"
+    },
+    {
+      "course_no": "GS F344",
+      "course_title": "Copywriting"
+    },
+    {
+      "course_no": "HSS F221",
+      "course_title": "Readings from Drama"
+    },
+    {
+      "course_no": "HSS F222",
+      "course_title": "Linguistics"
+    },
+    {
+      "course_no": "HSS F223",
+      "course_title": "Appreciation of Indian Music"
+    },
+    {
+      "course_no": "HSS F226",
+      "course_title": "Postmodernism"
+    },
+    {
+      "course_no": "HSS F227",
+      "course_title": "Cross Cultural Skills"
+    },
+    {
+      "course_no": "HSS F228",
+      "course_title": "Phonetics & Spoken English"
+    },
+    {
+      "course_no": "HSS F229",
+      "course_title": "Introduction to Western Music"
+    },
+    {
+      "course_no": "HSS F232",
+      "course_title": "Introduction to Development Studies"
+    },
+    {
+      "course_no": "HSS F233",
+      "course_title": "Main Trends in Indian History"
+    },
+    {
+      "course_no": "HSS F234",
+      "course_title": "Main Currents of Modern History"
+    },
+    {
+      "course_no": "HSS F235",
+      "course_title": "Introductory Philosophy"
+    },
+    {
+      "course_no": "HSS F236",
+      "course_title": "Symbolic Logic"
+    },
+    {
+      "course_no": "HSS F237",
+      "course_title": "Contemporary Indian English Fiction"
+    },
+    {
+      "course_no": "HSS F238",
+      "course_title": "Sports and Society"
+    },
+    {
+      "course_no": "HSS F247",
+      "course_title": "Social Informatics"
+    },
+    {
+      "course_no": "HSS F266",
+      "course_title": "Study Project"
+    },
+    {
+      "course_no": "HSS F315",
+      "course_title": "Society, Business, and Politics"
+    },
+    {
+      "course_no": "HSS F316",
+      "course_title": "Popular Literature and Culture of South Asia"
+    },
+    {
+      "course_no": "HSS F317",
+      "course_title": "Introduction to Globalization"
+    },
+    {
+      "course_no": "HSS F318",
+      "course_title": "Introduction to Anthropology"
+    },
+    {
+      "course_no": "HSS F319",
+      "course_title": "Lighting for Theatre and Films"
+    },
+    {
+      "course_no": "HSS F322",
+      "course_title": "Social and Political Ecology"
+    },
+    {
+      "course_no": "HSS F323",
+      "course_title": "Organizational Psychology"
+    },
+    {
+      "course_no": "HSS F325",
+      "course_title": "Cinematic Adaptation"
+    },
+    {
+      "course_no": "HSS F326",
+      "course_title": "Humanities and Design"
+    },
+    {
+      "course_no": "HSS F327",
+      "course_title": "Contemporary Drama"
+    },
+    {
+      "course_no": "HSS F328",
+      "course_title": "Human Resource Development"
+    },
+    {
+      "course_no": "HSS F329",
+      "course_title": "Musicology – An – Introduction"
+    },
+    {
+      "course_no": "HSS F330",
+      "course_title": "Appreciation of Art"
+    },
+    {
+      "course_no": "HSS F331",
+      "course_title": "Sankara’s Thoughts"
+    },
+    {
+      "course_no": "HSS F332",
+      "course_title": "Cinematic Art"
+    },
+    {
+      "course_no": "HSS F333",
+      "course_title": "Comparative Religion"
+    },
+    {
+      "course_no": "HSS F334",
+      "course_title": "Srimad Bhagavad Gita"
+    },
+    {
+      "course_no": "HSS F335",
+      "course_title": "Literary Criticism"
+    },
+    {
+      "course_no": "HSS F336",
+      "course_title": "Modern Fiction"
+    },
+    {
+      "course_no": "HSS F337",
+      "course_title": "English Literary Forms and Movements"
+    },
+    {
+      "course_no": "HSS F338",
+      "course_title": "Comparative Indian Literature"
+    },
+    {
+      "course_no": "HSS F339",
+      "course_title": "Theatre Art Acting and Production"
+    },
+    {
+      "course_no": "HSS F340",
+      "course_title": "Post Colonial Literatures"
+    },
+    {
+      "course_no": "HSS F341",
+      "course_title": "Performance Design"
+    },
+    {
+      "course_no": "HSS F342",
+      "course_title": "Advanced Communicative English"
+    },
+    {
+      "course_no": "HSS F343",
+      "course_title": "Professional Ethics"
+    },
+    {
+      "course_no": "HSS F344",
+      "course_title": "Heritage of India"
+    },
+    {
+      "course_no": "HSS F345",
+      "course_title": "Gandhian Thoughts"
+    },
+    {
+      "course_no": "HSS F346",
+      "course_title": "International Relations"
+    },
+    {
+      "course_no": "HSS F347",
+      "course_title": "Introduction to Carnatic Music"
+    },
+    {
+      "course_no": "HSS F348",
+      "course_title": "Introduction to Hindustani Music"
+    },
+    {
+      "course_no": "HSS F349",
+      "course_title": "Ecocriticism"
+    },
+    {
+      "course_no": "HSS F350",
+      "course_title": "Human Rights: History, Theory & Practice"
+    },
+    {
+      "course_no": "HSS F352",
+      "course_title": "Technology, Work and Society"
+    },
+    {
+      "course_no": "HSS F353",
+      "course_title": "Philosophy of Aesthetics"
+    },
+    {
+      "course_no": "HSS F354",
+      "course_title": "Introduction to Islamic Economy"
+    },
+    {
+      "course_no": "HSS F355",
+      "course_title": "Dictatorship, Democracy & Development"
+    },
+    {
+      "course_no": "HSS F356",
+      "course_title": "Social Movements and Protest Politics"
+    },
+    {
+      "course_no": "HSS F399",
+      "course_title": "Introduction to American Literature"
+    },
+    {
+      "course_no": "SANS F111",
+      "course_title": "Sanskrit"
+    },
+    {
+      "course_no": "ECON F211",
+      "course_title": "Principles of Economics"
+    },
+    {
+      "course_no": "GS F211",
+      "course_title": "Modern Political Concepts"
+    },
+    {
+      "course_no": "GS F212",
+      "course_title": "Environment, Development & Climate Change"
+    },
+    {
+      "course_no": "GS F213",
+      "course_title": "Development Theories"
+    },
+    {
+      "course_no": "GS F231",
+      "course_title": "Dynamics of Social Change"
+    },
+    {
+      "course_no": "GS F232",
+      "course_title": "Introductory Psychology"
+    },
+    {
+      "course_no": "GS F233",
+      "course_title": "Public Policy"
+    },
+    {
+      "course_no": "GS F234",
+      "course_title": "Development Economics"
+    },
+    {
+      "course_no": "GS F311",
+      "course_title": "Introduction to Conflict Management"
+    },
+    {
+      "course_no": "GS F312",
+      "course_title": "Applied Philosophy"
+    },
+    {
+      "course_no": "GS F331",
+      "course_title": "Techniques in Social Research"
+    },
+    {
+      "course_no": "GS F332",
+      "course_title": "Contemporary India"
+    },
+    {
+      "course_no": "GS F333",
+      "course_title": "Public Administration"
+    },
+    {
+      "course_no": "GS F334",
+      "course_title": "Global Business Technology & Knowledge Sharing"
+    },
+    {
+      "course_no": "BITS F214",
+      "course_title": "Science, Technology and Modernity"
+    },
+    {
+      "course_no": "BITS F385",
+      "course_title": "Introduction to Gender Studies"
+    },
+    {
+      "course_no": "BITS F399",
+      "course_title": "Humanistic Theories of Science and Technology"
+    },
+    {
+      "course_no": "GS F212",
+      "course_title": "Environment, Development and Climate Change"
+    },
+    {
+      "course_no": "GS F213",
+      "course_title": "Development Theories"
+    },
+    {
+      "course_no": "HSS F233",
+      "course_title": "Main Trends in Indian History"
+    },
+    {
+      "course_no": "HSS F234",
+      "course_title": "Main Currents of Modern History"
+    },
+    {
+      "course_no": "HSS F235",
+      "course_title": "Introductory Philosophy"
+    },
+    {
+      "course_no": "HSS F236",
+      "course_title": "Symbolic Logic"
+    },
+    {
+      "course_no": "HSS F312",
+      "course_title": "Bureaucracy"
+    },
+    {
+      "course_no": "HSS F315",
+      "course_title": "Society, Business, and Politics"
+    },
+    {
+      "course_no": "HSS F343",
+      "course_title": "Professional Ethics"
+    },
+    {
+      "course_no": "HSS F344",
+      "course_title": "Heritage of India"
+    },
+    {
+      "course_no": "HSS F345",
+      "course_title": "Gandhian Thoughts"
+    },
+    {
+      "course_no": "HSS F346",
+      "course_title": "International Relations"
+    },
+    {
+      "course_no": "GS F221",
+      "course_title": "Business Communication"
+    },
+    {
+      "course_no": "GS F222",
+      "course_title": "Language Lab Practice"
+    },
+    {
+      "course_no": "GS F223",
+      "course_title": "Introduction to Mass Communication"
+    },
+    {
+      "course_no": "GS F224",
+      "course_title": "Print and Audio Visual Advertising"
+    },
+    {
+      "course_no": "GS F241",
+      "course_title": "Creative Writing"
+    },
+    {
+      "course_no": "GS F243",
+      "course_title": "Current Affairs"
+    },
+    {
+      "course_no": "GS F244",
+      "course_title": "Reporting and Writing for Media"
+    },
+    {
+      "course_no": "GS F245",
+      "course_title": "Effective Public Speaking"
+    },
+    {
+      "course_no": "GS F321",
+      "course_title": "Mass Media Content and Design"
+    },
+    {
+      "course_no": "GS F322",
+      "course_title": "Critical Analysis of Literature and Cinema"
+    },
+    {
+      "course_no": "GS F342",
+      "course_title": "Computer Mediated Communication"
+    },
+    {
+      "course_no": "GS F343",
+      "course_title": "Short Film and Video Production"
+    },
+    {
+      "course_no": "BITS F385",
+      "course_title": "Introduction to Gender Studies"
+    },
+    {
+      "course_no": "GS F211",
+      "course_title": "Modern Political Concepts"
+    },
+    {
+      "course_no": "GS F212",
+      "course_title": "Environment, Development & Climate Change"
+    },
+    {
+      "course_no": "GS F231",
+      "course_title": "Dynamics of Social Change"
+    },
+    {
+      "course_no": "GS F232",
+      "course_title": "Introductory Psychology"
+    },
+    {
+      "course_no": "GS F242",
+      "course_title": "Cultural Studies"
+    },
+    {
+      "course_no": "GS F311",
+      "course_title": "Introduction to Conflict Management"
+    },
+    {
+      "course_no": "GS F325",
+      "course_title": "Journalism"
+    },
+    {
+      "course_no": "GS F326",
+      "course_title": "Creative Thinking"
+    },
+    {
+      "course_no": "GS F327",
+      "course_title": "Selected Reading"
+    },
+    {
+      "course_no": "GS F333",
+      "course_title": "Public Administration"
+    },
+    {
+      "course_no": "GS F334",
+      "course_title": "Global Business Technology & Knowledge Sharing"
+    },
+    {
+      "course_no": "GS F344",
+      "course_title": "Copywriting"
+    },
+    {
+      "course_no": "HSS F227",
+      "course_title": "Cross Cultural Skills"
+    },
+    {
+      "course_no": "HSS F232",
+      "course_title": "Introduction to Development Studies"
+    },
+    {
+      "course_no": "HSS F315",
+      "course_title": "Society, Business, and Politics"
+    },
+    {
+      "course_no": "HSS F317",
+      "course_title": "Introduction to Globalization"
+    },
+    {
+      "course_no": "HSS F319",
+      "course_title": "Lighting for Theatre and Films"
+    },
+    {
+      "course_no": "HSS F323",
+      "course_title": "Organizational Psychology"
+    },
+    {
+      "course_no": "HSS F328",
+      "course_title": "Human Resource Development"
+    },
+    {
+      "course_no": "HSS F341",
+      "course_title": "Performance Design"
+    },
+    {
+      "course_no": "HSS F343",
+      "course_title": "Professional Ethics"
+    },
+    {
+      "course_no": "HSS F346",
+      "course_title": "International Relations"
+    }
+  ]
+}
