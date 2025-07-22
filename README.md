@@ -14,6 +14,11 @@
 - 👥 **BITS-only Access**: Restricted to BITS Pilani students via domain-based Google sign-in.
 - 👤 **Complete Profile System**: Users set up a detailed profile with enrolled courses, making group relevance stronger.
 
+## 📱 Download BITS Connect App
+
+[⬇️ Click here to download APK](https://github.com/Bhuvan-Arora-1313/BITS-Connect-App/raw/main/release-apk/BITSConnect-v1.0.apk)
+
+
 ## 📱 How to Use
 
 ### 🔧 Setup (for Developers)
